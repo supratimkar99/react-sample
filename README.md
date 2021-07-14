@@ -1,20 +1,20 @@
-# Release-Tracker-for-Womens-health
-https://jira2.cerner.com/browse/DEVACDMY-33769
+# Release-Tracker-App
+https://jira2.cerner.com/browse/DEVACDMY-35455
 
 ## Overview
-Application used to track  release and deployment details of Alva and Orion projects in the Women’s Health Team.
+Application used to track  release and deployment details of Alva, Orion, Mpage & Genview projects in the Women’s Health Team.
 
 ## Functionalities
 * Perform search of features 
 * Perform addition of feature details
 * Perform Edit operations to change Feature details
 * Perform Delete operation to remove feature details
+* Export Search Results in Excel or PDF Format
 
 ## Tech-Stack
 * Ruby on Rails
 * React
 * MySQL
-* NodeJs
 * Visual Studio Code- IDE
 * Postman - API call check
 
